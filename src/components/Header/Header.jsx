@@ -107,11 +107,11 @@ function Header() {
                                     Posts
                         </a>
                                 <ul>
-                                    <li><a href="http://localhost:3000/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
-                                    <li><a href="http://localhost:3000/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
-                                    <li><a href="http://localhost:3000/voted" title=""><i class="fas fa-star"></i> voted</a></li>
-                                    <li><a href="http://localhost:3000/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
-                                    <li><a href="http://localhost:3000/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
+                                    <li><a href="https://beta.voilk.com/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
+                                    <li><a href="https://beta.voilk.com/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
+                                    <li><a href="https://beta.voilk.com/voted" title=""><i class="fas fa-star"></i> voted</a></li>
+                                    <li><a href="https://beta.voilk.com/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
+                                    <li><a href="https://beta.voilk.com/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -163,11 +163,11 @@ function Header() {
                             <div class="user-account-settingss d-block">
                                 <h3>Posts</h3>
                                 <ul class="us-links">
-                                    <li><a href="http://localhost:3000/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
-                                    <li><a href="http://localhost:3000/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
-                                    <li><a href="http://localhost:3000/voted" title=""><i class="fas fa-star"></i> voted</a></li>
-                                    <li><a href="http://localhost:3000/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
-                                    <li><a href="http://localhost:3000/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
+                                    <li><a href="https://beta.voilk.com/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
+                                    <li><a href="https://beta.voilk.com/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
+                                    <li><a href="https://beta.voilk.com/voted" title=""><i class="fas fa-star"></i> voted</a></li>
+                                    <li><a href="https://beta.voilk.com/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
+                                    <li><a href="https://beta.voilk.com/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
                                 </ul>
                                 <h3>Explorer</h3>
                                 <ul className="us-links">
@@ -218,11 +218,11 @@ function Header() {
                                     Posts
                                     </a>
                                 <ul>
-                                    <li><a href="http://localhost:3000/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
-                                    <li><a href="http://localhost:3000/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
-                                    <li><a href="http://localhost:3000/voted" title=""><i class="fas fa-star"></i> voted</a></li>
-                                    <li><a href="http://localhost:3000/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
-                                    <li><a href="http://localhost:3000/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
+                                    <li><a href="https://beta.voilk.com/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
+                                    <li><a href="https://beta.voilk.com/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
+                                    <li><a href="https://beta.voilk.com/voted" title=""><i class="fas fa-star"></i> voted</a></li>
+                                    <li><a href="https://beta.voilk.com/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
+                                    <li><a href="https://beta.voilk.com/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -265,11 +265,11 @@ function Header() {
                             <div class="user-account-settingss d-block" >
                                 <h3>Posts</h3>
                                 <ul class="us-links">
-                                    <li><a href="http://localhost:3000/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
-                                    <li><a href="http://localhost:3000/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
-                                    <li><a href="http://localhost:3000/voted" title=""><i class="fas fa-star"></i> voted</a></li>
-                                    <li><a href="http://localhost:3000/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
-                                    <li><a href="http://localhost:3000/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
+                                    <li><a href="https://beta.voilk.com/trending" title=""><i class="fas fa-fire-alt"></i> Trending</a></li>
+                                    <li><a href="https://beta.voilk.com/created" title=""><i class="fas fa-bullhorn"></i> New</a></li>
+                                    <li><a href="https://beta.voilk.com/voted" title=""><i class="fas fa-star"></i> voted</a></li>
+                                    <li><a href="https://beta.voilk.com/children" title=""><i class="fas fa-comments-dollar"></i> Commented</a></li>
+                                    <li><a href="https://beta.voilk.com/popular" title=""><i class="fas fa-rocket"></i> Popular</a></li>
                                 </ul>
                                 <h3>Explorer</h3>
                                 <ul className="us-links">
